@@ -1,11 +1,16 @@
 _repo: Roman-Stoicism-being-lectures-on-the-history-of-the-Stoic-philosophy-with-special-reference-t__64488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64488-h/images/cover.jpg
 creator:
   author:
     agent_name: Arnold, E. Vernon
     gutenberg_agent_id: '52927'
     url: http://www.gutenberg.org/2009/agents/52927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64488#Roman-Stoicism-being-lectures-on-the-history-of-the-Stoic-philosophy-with-special-reference-t_
 gutenberg_issued: '2021-02-07'
 gutenberg_type: Text
 identifiers:
